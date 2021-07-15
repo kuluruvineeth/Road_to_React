@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <h1>
-        Hello {getTitle('React')}
+        Hello {getTitle('React from facebook')}
       </h1>
       <label htmlFor="search">Search: </label>
       <input id="search" type="text"/>
